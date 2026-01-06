@@ -1,5 +1,5 @@
 # Active+
-
+ 
 Active+ is a modern, lightweight fitness tracking app designed to help users manage workouts and exercises with complete privacy. The application requires no authentication and stores all data locally in the browser.
 
 Users can create personal exercise libraries, build and edit workouts over time, track detailed performance data, and customize their profile and theme preferences. Active+ uses a minimalistic flat design and is optimized for both desktop and mobile devices.
